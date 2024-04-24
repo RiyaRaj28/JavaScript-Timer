@@ -1,4 +1,4 @@
-# JavaScript Timer and Navbar
+# JavaScript Timer 
 
 This is a simple web page that displays the current time and includes a responsive navigation bar. It is built with HTML, CSS, and JavaScript, and utilizes the Bootstrap framework for styling.
 
